@@ -1,0 +1,1 @@
+﻿将lib下得库移动至开发板/lib下，将bin下disjpg和pic下的图片复制到开发板同一目录下./disjpg即可运行。
